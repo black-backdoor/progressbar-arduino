@@ -7,7 +7,7 @@ This is a simple progressbar for Arduino LCD Display. It is based on the LiquidC
 
 
 ## Usage
-```arduino
+```cpp
 void render_progressbar(byte progress, String message = "", bool displayPercentage = true, int textRow = lcd_rows-2, int barRow = lcd_rows-1)
 ```
 
