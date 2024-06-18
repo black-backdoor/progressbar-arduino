@@ -1,7 +1,7 @@
 # Progressbar for Arduino LCD Display
 This is a simple progressbar for Arduino LCD Display. It is based on the LiquidCrystal-I2C library.
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](assets/example.gif)
 
 **Fork of [skywodd](https://www.carnetdumaker.net/membres/skywodd/) Progress-Bar [script](https://www.carnetdumaker.net/articles/faire-une-barre-de-progression-avec-arduino-et-liquidcrystal/)**
 
