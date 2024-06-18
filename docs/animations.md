@@ -1,4 +1,4 @@
-# Annimations
+# Animations
 You can change the animation of the progress bar by replacing the following variables:
 
 ```cpp
